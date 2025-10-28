@@ -1,5 +1,5 @@
-# Mathematica
-Sinai Billiard Simulation in Mathematica
+#Sinai Billiard Simulation in Mathematica
+
 This project implements a numerical simulation of the Sinai billiard, a classical model in dynamical systems that exhibits chaotic behavior.
 The simulation was developed in Wolfram Mathematica and allows visualization of particle trajectories inside a square billiard table with a circular obstacle in the center.
 
