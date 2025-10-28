@@ -1,4 +1,3 @@
-#Mathematica
 Sinai Billiard Simulation in Mathematica
 
 This project implements a numerical simulation of the Sinai billiard, a classical model in dynamical systems that exhibits chaotic behavior.
